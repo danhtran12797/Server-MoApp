@@ -1,7 +1,6 @@
 <?php 
 	require("connect.php");
 
-	// $id_group=$_POST['id_group_cate'];
 	$id=$_POST['id_cate'];
 	$name=$_POST['name_cate'];
 	$image=$_POST['image_cate'];
