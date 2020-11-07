@@ -1,6 +1,6 @@
 <?php 
 	$to=$_POST['to'];
-	$file_path="image/";
+	$file_path="../image/";
 	if($to=="cate")
 		$file_path=$file_path."categories/";
 	else
